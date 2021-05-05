@@ -12,8 +12,8 @@ class SizeConfig {
     _mediaQueryData = MediaQuery.of(context);
     width = _mediaQueryData.size.width;
     height = _mediaQueryData.size.height;
-    titleSize = _mediaQueryData.size.width * 0.1;
-    fontSize = _mediaQueryData.size.width * 0.045;
-    mFontSize = _mediaQueryData.size.width * 0.064;
+    titleSize = _mediaQueryData.size.width * 0.08;
+    fontSize = _mediaQueryData.size.width * 0.04;
+    mFontSize = _mediaQueryData.size.width * 0.06;
   }
 }
