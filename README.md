@@ -8,7 +8,11 @@
 - bezier_chart: [link](https://pub.dev/packages/bezier_chart)
 - flutter_svg: [link](https://pub.dev/packages/flutter_svg)
 
-Today we gonna build a Gold Trading app #ui using #flutter that runs both Android and iOS devices also has a beautiful bezier chart. We create in total 2 screens with a bottom navbar navigation.
+Today we'll be converting an another dribbble inspiration into a real coded app. Our today's 
+inspiration is a Gold Trading App UI by Ghani Pradita. Thank you so much for creating such an awesome #UI.
+This UI contains two screens grouped in a bottom navigation bar. Second screen is what excited me to make 
+this UI. This screen contains a beautiful Bezier chart which can be easily implemented using a flutter package.
+Check out the video to see how easy it is to make such beautiful charts in Flutter.
 
 ### Gold Trading App Final UI
 
